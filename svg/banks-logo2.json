@@ -1,0 +1,126 @@
+[
+  {
+    "name": "BCA-LABEL",
+    "path": "./svg/bca-label.svg"
+  },
+  {
+    "name": "BCA-MARK",
+    "path": "./svg/bca-mark.svg"
+  },
+  {
+    "name": "BCA-SYARIAH",
+    "path": "./svg/bca-syariah.svg"
+  },
+  {
+    "name": "BCA",
+    "path": "./svg/bca.svg"
+  },
+  {
+    "name": "BNI-SYARIAH",
+    "path": "./svg/bni-syariah.svg"
+  },
+  {
+    "name": "BNI",
+    "path": "./svg/bni.svg"
+  },
+  {
+    "name": "BRI-SYARIAH",
+    "path": "./svg/bri-syariah.svg"
+  },
+  {
+    "name": "BRI",
+    "path": "./svg/bri.svg"
+  },
+  {
+    "name": "BSI-MARK",
+    "path": "./svg/bsi-mark.svg"
+  },
+  {
+    "name": "BSI",
+    "path": "./svg/bsi.svg"
+  },
+  {
+    "name": "BTPN-SYARIAH",
+    "path": "./svg/btpn-syariah.svg"
+  },
+  {
+    "name": "BTPN",
+    "path": "./svg/btpn.svg"
+  },
+  {
+    "name": "BUKOPIN-MARK",
+    "path": "./svg/bukopin-mark.svg"
+  },
+  {
+    "name": "BUKOPIN",
+    "path": "./svg/bukopin.svg"
+  },
+  {
+    "name": "CIMB-MARK",
+    "path": "./svg/cimb-mark.svg"
+  },
+  {
+    "name": "CIMB",
+    "path": "./svg/cimb.svg"
+  },
+  {
+    "name": "CITIBANK-MARK",
+    "path": "./svg/citibank-mark.svg"
+  },
+  {
+    "name": "CITIBANK",
+    "path": "./svg/citibank.svg"
+  },
+  {
+    "name": "DANAMON-MARK",
+    "path": "./svg/danamon-mark.svg"
+  },
+  {
+    "name": "DANAMON",
+    "path": "./svg/danamon.svg"
+  },
+  {
+    "name": "HSBC-MARK",
+    "path": "./svg/hsbc-mark.svg"
+  },
+  {
+    "name": "HSBC",
+    "path": "./svg/hsbc.svg"
+  },
+  {
+    "name": "JENIUS-MARK",
+    "path": "./svg/jenius-mark.svg"
+  },
+  {
+    "name": "JENIUS",
+    "path": "./svg/jenius.svg"
+  },
+  {
+    "name": "MANDIRI-MARK",
+    "path": "./svg/mandiri-mark.svg"
+  },
+  {
+    "name": "MANDIRI-SYARIAH",
+    "path": "./svg/mandiri-syariah.svg"
+  },
+  {
+    "name": "MANDIRI",
+    "path": "./svg/mandiri.svg"
+  },
+  {
+    "name": "PANIN-MARK",
+    "path": "./svg/panin-mark.svg"
+  },
+  {
+    "name": "PANIN",
+    "path": "./svg/panin.svg"
+  },
+  {
+    "name": "PERMATA-MARK",
+    "path": "./svg/permata-mark.svg"
+  },
+  {
+    "name": "PERMATA",
+    "path": "./svg/permata.svg"
+  }
+]
